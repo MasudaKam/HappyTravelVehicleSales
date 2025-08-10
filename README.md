@@ -22,10 +22,7 @@ It includes diagrams showing the main entities, processes, and interactions.
 ## Diagrams
 
 - **Use Case Diagram**  
-  ![Use Case Diagram](docs/UseCaseDiagram.png)
 
 - **Class Diagram**  
-  ![Class Diagram](docs/ClassDiagram.png)
 
 - **Sequence Diagram**  
-  ![Sequence Diagram](docs/SequenceDiagram.png)
